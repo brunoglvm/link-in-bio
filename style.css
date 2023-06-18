@@ -162,6 +162,16 @@ ul li a:hover {
   background: var(--highlight-color);
 }
 
+@media (min-width: 700px) {
+  :root {
+ 
+  }
+
+  .light {
+
+  }
+}
+
 @keyframes slide-in {
   from {
     left: 0;
