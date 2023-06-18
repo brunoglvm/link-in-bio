@@ -10,6 +10,6 @@ function toggleMode() {
     img.setAttribute("alt", "Light theme profile picture");
   } else {
     img.setAttribute("src", "./assets/avatar-dark.png");
-    img.setAttribute("alt", "Dark themee profile picture");
+    img.setAttribute("alt", "Dark theme profile picture");
   }
 }
