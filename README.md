@@ -1,25 +1,23 @@
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+<<<<<<< HEAD
+## link-in-bio | link-tree | all-my-links
+=======
+### ...
+>>>>>>> eb0df47318ad453a6b5fd2e4e3deed130656ce5d
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img src="" width="100%">
 </p>
 
-<br>
+<<<<<<< HEAD
+###
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
-
-## Tecnologias
+=======
+>>>>>>> eb0df47318ad453a6b5fd2e4e3deed130656ce5d
+#### Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML & CSS
 - JavaScript
-- Git e Github
+- Photoshop
 - Figma
