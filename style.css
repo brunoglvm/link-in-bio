@@ -7,6 +7,7 @@
 :root {
   --text-color: white;
   --bg-url: url(./assets/bg-dark.jpg);
+  --bg-color: rgb(22, 22, 24);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -17,6 +18,7 @@
 .light {
   --text-color: black;
   --bg-url: url(./assets/bg-light.jpg);
+  --bg-color: rgb(239, 235, 239);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -26,8 +28,8 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  background-color: var(--bg-color);
   min-height: 100vh;
-  overscroll-behavior: none;
 }
 
 body * {
