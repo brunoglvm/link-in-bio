@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/bg-dark.jpg);
+  --bg-url: url(./assets/bg-dark.webp);
   --bg-color: rgb(22, 22, 24);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
@@ -17,7 +17,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(./assets/bg-light.jpg);
+  --bg-url: url(./assets/bg-light.webp);
   --bg-color: rgb(239, 235, 239);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
