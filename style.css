@@ -45,16 +45,16 @@ body * {
   padding: 0 24px;
 }
 
-#profile {
+#user {
   text-align: center;
   padding: 24px;
 }
 
-#profile img {
+#user img {
   width: 112px;
 }
 
-#profile p {
+#user p {
   font-weight: 500;
   line-height: 24px;
   margin-top: 8px;
